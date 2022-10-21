@@ -10,9 +10,22 @@ public class Shirt {
      * TODO: Modify this method to print ASCII Art Shirt
      */
     public void display() {
-        System.out.println("Shirt?);
-    }
+        System.out.println("        __.|       |.__        ");
+        System.out.println("     __,       |       ,__     ");
+        System.out.println("    |          O          |     ");
+        System.out.println("    |     |    |     |    |     ");
+        System.out.println("    /   / |    O     |\\   \\      ");
+        System.out.println("   /===/  |    |     | \\===\\         ");
+        System.out.println("  /___/   |    O     |  \\___\\              ");
 
+
+
+
+
+
+
+
+    }
     /* main method (for testing) */
     public static void main(String[] args) {
         Shirt myShirt = new Shirt();
